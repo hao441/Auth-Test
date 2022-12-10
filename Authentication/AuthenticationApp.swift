@@ -6,9 +6,12 @@
 //
 
 import SwiftUI
+import Firebase
 
 @main
+
 struct AuthenticationApp: App {
+    
     var body: some Scene {
         WindowGroup {
             ContentView()
